@@ -6,4 +6,5 @@ Animals sanity code set
     1158: Task-set on ReadMe.
     1230: Sending to Visual Studio for cleaning.
     1259: Cleaned and sorted, what about CsCore stuff?
+    1435: CsCore now animals-audio, with tests of unknown quality.
     
