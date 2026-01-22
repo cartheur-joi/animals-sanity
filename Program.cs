@@ -42,7 +42,7 @@ class Program
         }
         catch (Exception ex)
         {
-
+            ex.Message.ToString();
         }
 
         //Thread.Sleep(2000);
