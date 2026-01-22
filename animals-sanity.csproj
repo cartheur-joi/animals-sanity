@@ -15,6 +15,7 @@
 
   <ItemGroup>
     <Content Include="datasets\**\*" CopyToOutputDirectory="Always" />
+    <Content Include="recordings\**\*" CopyToOutputDirectory="Always" />
   </ItemGroup>
 
 </Project>
