@@ -9,4 +9,5 @@ Animals sanity code set
     1435: CsCore now animals-audio, with tests of unknown quality.
     1445: Code is mechanically correct, have to add a 500MB set of training audio; this project could process this for other projects.
     1550: An error with a label in the training data. Took the time to secure the sources for Accord.* as Tools in a repo.
+    1551: Will need to diagnose the issue to continue.
     
