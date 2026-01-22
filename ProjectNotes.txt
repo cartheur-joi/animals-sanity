@@ -11,4 +11,5 @@ Animals sanity code set
     1550: An error with a label in the training data. Took the time to secure the sources for Accord.* as Tools in a repo.
     1551: Will need to diagnose the issue to continue.
     1703: Issues fixed and a fresh repo contains the correct and viable sources.
+    1823: Recording now functioning but being orphaned.
     
