@@ -16,10 +16,10 @@ class Program
     static int RecordingDuration { get; set; }
     static LoaderPaths Configuration;
     static string TrainingDataFiles { get; set; }
-    static string FileName { get; set; }
+    static string FileName = "recorded";
     static bool UseFile { get; set; }
     static DetectEmotion DetectEmotion { get; set; }
-    static string OutputDetectionFileName = "listening_";
+    static string OutputDetectionFileName = "recorded";
 
     static async Task Main()
     {
