@@ -7,4 +7,4 @@ Animals sanity code set
     1230: Sending to Visual Studio for cleaning.
     1259: Cleaned and sorted, what about CsCore stuff?
     1435: CsCore now animals-audio, with tests of unknown quality.
-    
+    1445: Code is mechanically correct, have to add a 500MB set of training audio; this project could process this for other projects.
